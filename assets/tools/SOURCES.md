@@ -59,6 +59,9 @@ These unmodified logos identify technologies used in the profile. Brand names an
 
 - **Ruby**: https://skillicons.dev/icons?i=ruby
 
+- **Codex (OpenAI developer-site favicon)**: https://developers.openai.com/favicon.png
+- **Claude Code**: https://cdn.simpleicons.org/claudecode
+
 ## Skill Icons license
 
 MIT License

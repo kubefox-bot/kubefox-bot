@@ -140,6 +140,14 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 ### 🛠️ Tools I work with
 
+**AI-assisted development**
+
+<p>
+  <a href="https://github.com/openai/codex" title="OpenAI Codex"><img src="assets/tools/codex.png" width="32" height="32" alt="OpenAI Codex" /> Codex</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anthropics/claude-code" title="Claude Code"><img src="assets/tools/claude-code.svg" width="32" height="32" alt="Claude Code" /> Claude Code</a>
+</p>
+
 **Infrastructure & delivery**
 
 <p>
