@@ -46,6 +46,18 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products.
   <img src="assets/tools/unleash.svg" width="68" height="24" alt="Unleash" title="Unleash" />
   <img src="assets/tools/pulumi.svg" width="24" height="24" alt="Pulumi" title="Pulumi" />
   <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
+  <img src="assets/tools/astro.svg" width="24" height="24" alt="Astro" title="Astro" />
+  <img src="assets/tools/mongodb.svg" width="24" height="24" alt="MongoDB" title="MongoDB" />
+  <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/vault-dark.svg" />
+    <img src="assets/tools/vault.svg" width="24" height="24" alt="HashiCorp Vault" title="HashiCorp Vault" />
+  </picture>
+  <img src="assets/tools/aws.svg" width="24" height="24" alt="AWS" title="AWS" />
+  <img src="assets/tools/kubernetes.svg" width="24" height="24" alt="Kubernetes" title="Kubernetes" />
+  <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
+  <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
 </p>
 
 - 💱 **P2P launch:** built end-to-end asynchronous trading workflows. In one reported week, the platform recorded **127K+ trades**, **$4M+ turnover** and **~44K weekly active users**.
@@ -62,6 +74,9 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products.
   <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/ruby.svg" width="24" height="24" alt="Ruby" title="Ruby" />
+  <img src="assets/tools/rust.svg" width="24" height="24" alt="Rust" title="Rust" />
+  <img src="assets/tools/react.svg" width="24" height="24" alt="React" title="React" />
+  <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
   <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
   <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
   <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
