@@ -238,3 +238,5 @@ OpenAPI · WebSockets · gRPC
 ---
 
 **Let’s talk about your next product, platform or delivery challenge.** [Say hello →](https://t.me/kubefox47)
+
+![](https://hit.yhype.me/github/profile?account_id=20839951)
