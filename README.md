@@ -51,6 +51,10 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/nestjs.svg" width="24" height="24" alt="NestJS" title="NestJS" />
   <img src="assets/tools/unleash.svg" width="68" height="24" alt="Unleash" title="Unleash" />
+  <img src="assets/tools/python.svg" width="24" height="24" alt="Python" title="Python" />
+  <img src="assets/tools/pulumi.svg" width="24" height="24" alt="Pulumi" title="Pulumi" />
+  <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
+  <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
 - 💱 **P2P launch:** built end-to-end asynchronous trading workflows. In one reported week, the platform recorded **127K+ trades**, **$4M+ turnover** and **~44K weekly active users**.
@@ -68,6 +72,9 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
   <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
+  <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
+  <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
+  <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
 </p>
 
 - 📖 **Publishing & payments:** built digital book publishing, purchase and resale flows with **Coinflow, Stripe and Solana** integrations.
@@ -80,8 +87,20 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 <p>
   <img src="assets/tools/githubactions.svg" width="24" height="24" alt="GitHub Actions" title="GitHub Actions" />
   <img src="assets/tools/ansible.svg" width="24" height="24" alt="Ansible" title="Ansible" />
-  <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
+  <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
+  <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/python.svg" width="24" height="24" alt="Python" title="Python" />
+  <img src="assets/tools/litestar.svg" width="24" height="24" alt="Litestar" title="Litestar" />
+  <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
+  <img src="assets/tools/react.svg" width="24" height="24" alt="React" title="React" />
+  <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/drizzle-dark.svg" />
+    <img src="assets/tools/drizzle.svg" width="24" height="24" alt="Drizzle" title="Drizzle" />
+  </picture>
+  <img src="assets/tools/dragonfly.svg" width="48" height="24" alt="Dragonfly" title="Dragonfly" />
   <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
+  <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
 </p>
 
 - 🧭 **Shared workflow:** introduced a **consistent development-to-acceptance flow across projects**, making handoffs clearer and helping teams review and accept work faster.
@@ -94,8 +113,13 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 <p>
   <img src="assets/tools/nodejs.svg" width="24" height="24" alt="Node.js" title="Node.js" />
-  <img src="assets/tools/vue.svg" width="24" height="24" alt="Vue" title="Vue" />
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/nestjs.svg" width="24" height="24" alt="NestJS" title="NestJS" />
+  <img src="assets/tools/vue.svg" width="24" height="24" alt="Vue" title="Vue" />
+  <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
+  <img src="assets/tools/openshift.svg" width="24" height="24" alt="OpenShift" title="OpenShift" />
+  <img src="assets/tools/mongodb.svg" width="24" height="24" alt="MongoDB" title="MongoDB" />
+  <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
 </p>
 
 - 🧩 **Monolith decomposition:** helped the team extract **~60% of the monolith's functionality** into separate services, simplifying application delivery and changes to business logic.

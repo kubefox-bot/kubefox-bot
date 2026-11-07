@@ -55,6 +55,8 @@ These unmodified logos identify technologies used in the profile. Brand names an
 - **HashiCorp Vault (light theme)**: https://cdn.simpleicons.org/vault/000000
 - **HashiCorp Vault (dark theme)**: https://cdn.simpleicons.org/vault
 
+- **OpenShift**: https://skillicons.dev/icons?i=openshift
+
 ## Skill Icons license
 
 MIT License
