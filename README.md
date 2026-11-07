@@ -222,4 +222,4 @@ OpenAPI · WebSockets · gRPC
 
 ---
 
-Happy to talk about product engineering, platforms and practical AI. [Say hello →](https://t.me/kubefox47)
+**Let’s talk about your next product, platform or delivery challenge.** [Say hello →](https://t.me/kubefox47)
