@@ -54,24 +54,58 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 ### 🛠️ Tools I work with
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,podman,kubernetes,terraform,pulumi,linux,githubactions,ansible,grafana,opentelemetry,bun,playwright,ts,nodejs,py,rust,nestjs,react,vue,nextjs,svelte,astro,postgres,redis,apollo,graphql&amp;perline=6" alt="Docker, Podman, Kubernetes, Terraform, Pulumi, Linux, GitHub Actions, Ansible, Grafana, OpenTelemetry, Bun, Playwright, TypeScript, Node.js, Python, Rust, NestJS, React, Vue, Next.js, SvelteKit, Astro, PostgreSQL, Redis, Apollo and GraphQL" />
-</p>
+**Infrastructure & delivery**
 
 <p>
-  <img src="https://img.shields.io/badge/Litestar-202235?style=for-the-badge" alt="Litestar" />
-  <img src="https://img.shields.io/badge/Dragonfly-7258F5?style=for-the-badge" alt="Dragonfly" />
-  <img src="https://img.shields.io/badge/TanStack-EF4444?style=for-the-badge" alt="TanStack" />
-  <img src="https://img.shields.io/badge/mise-2563EB?style=for-the-badge" alt="mise" />
+  <img src="assets/tools/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="assets/tools/podman.svg" width="40" height="40" alt="Podman" title="Podman" />
+  <img src="assets/tools/kubernetes.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img src="assets/tools/terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
+  <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
+  <img src="assets/tools/linux.svg" width="40" height="40" alt="Linux" title="Linux" />
+  <img src="assets/tools/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="assets/tools/ansible.svg" width="40" height="40" alt="Ansible" title="Ansible" />
+  <img src="assets/tools/bun.svg" width="40" height="40" alt="Bun" title="Bun" />
+  <img src="assets/tools/mise.svg" width="40" height="40" alt="mise" title="mise" />
 </p>
 
-**Infrastructure:** Docker · Podman · Kubernetes · Terraform · Pulumi · Linux · Ansible  
-**Delivery & tooling:** GitHub Actions · Bun · mise  
-**Quality & observability:** Playwright · OpenTelemetry · Grafana  
-**Languages:** TypeScript · Python · Rust  
-**Applications:** Node.js · NestJS · Litestar · React · Next.js · Vue · SvelteKit · Astro · TanStack  
-**Data:** PostgreSQL · MongoDB · Redis · Dragonfly  
-**APIs & contracts:** Apollo GraphQL · OpenAPI · WebSockets · gRPC
+**Languages & applications**
+
+<p>
+  <img src="assets/tools/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/python.svg" width="40" height="40" alt="Python" title="Python" />
+  <img src="assets/tools/rust.svg" width="40" height="40" alt="Rust" title="Rust" />
+  <img src="assets/tools/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="assets/tools/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />
+  <img src="assets/tools/litestar.svg" width="40" height="40" alt="Litestar" title="Litestar" />
+  <img src="assets/tools/react.svg" width="40" height="40" alt="React" title="React" />
+  <img src="assets/tools/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />
+  <img src="assets/tools/vue.svg" width="40" height="40" alt="Vue" title="Vue" />
+  <img src="assets/tools/sveltekit.svg" width="40" height="40" alt="SvelteKit" title="SvelteKit" />
+  <img src="assets/tools/astro.svg" width="40" height="40" alt="Astro" title="Astro" />
+  <img src="assets/tools/tanstack.svg" width="40" height="40" alt="TanStack" title="TanStack" />
+</p>
+
+**Data & APIs**
+
+<p>
+  <img src="assets/tools/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/tools/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="assets/tools/redis.svg" width="40" height="40" alt="Redis" title="Redis" />
+  <img src="assets/tools/dragonfly.svg" width="80" height="40" alt="Dragonfly" title="Dragonfly" />
+  <img src="assets/tools/apollo.svg" width="40" height="40" alt="Apollo GraphQL" title="Apollo GraphQL" />
+  <img src="assets/tools/graphql.svg" width="40" height="40" alt="GraphQL" title="GraphQL" />
+</p>
+
+**Quality & observability**
+
+<p>
+  <img src="assets/tools/playwright.svg" width="40" height="40" alt="Playwright" title="Playwright" />
+  <img src="assets/tools/opentelemetry.svg" width="40" height="40" alt="OpenTelemetry" title="OpenTelemetry" />
+  <img src="assets/tools/grafana.svg" width="40" height="40" alt="Grafana" title="Grafana" />
+</p>
+
+OpenAPI · WebSockets · gRPC
 
 ### 🚀 Selected projects
 
