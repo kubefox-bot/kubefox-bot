@@ -57,6 +57,8 @@ These unmodified logos identify technologies used in the profile. Brand names an
 
 - **OpenShift**: https://skillicons.dev/icons?i=openshift
 
+- **Ruby**: https://skillicons.dev/icons?i=ruby
+
 ## Skill Icons license
 
 MIT License

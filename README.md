@@ -70,6 +70,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 <p>
   <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/ruby.svg" width="24" height="24" alt="Ruby" title="Ruby" />
   <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
   <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
   <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
