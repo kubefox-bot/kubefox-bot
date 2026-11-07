@@ -97,6 +97,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
     <img src="assets/tools/podman.svg" width="40" height="40" alt="Podman" title="Podman" />
   </picture>
   <img src="assets/tools/kubernetes.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img src="assets/tools/traefik.svg" width="40" height="40" alt="Traefik" title="Traefik" />
   <img src="assets/tools/terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
   <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
   <img src="assets/tools/linux.svg" width="40" height="40" alt="Linux" title="Linux" />
@@ -109,6 +110,17 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/tools/mise-dark.svg" />
     <img src="assets/tools/mise.svg" width="40" height="40" alt="mise" title="mise" />
+  </picture>
+</p>
+
+**Identity & secrets**
+
+<p>
+  <img src="assets/tools/authentik.svg" width="40" height="40" alt="Authentik" title="Authentik" />
+  <img src="assets/tools/infisical.svg" width="80" height="40" alt="Infisical" title="Infisical" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/vault-dark.svg" />
+    <img src="assets/tools/vault.svg" width="40" height="40" alt="HashiCorp Vault" title="HashiCorp Vault" />
   </picture>
 </p>
 
@@ -133,6 +145,11 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 <p>
   <img src="assets/tools/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/tools/sqlite.svg" width="40" height="40" alt="SQLite" title="SQLite" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/drizzle-dark.svg" />
+    <img src="assets/tools/drizzle.svg" width="40" height="40" alt="Drizzle" title="Drizzle" />
+  </picture>
   <img src="assets/tools/neon.svg" width="40" height="40" alt="Neon" title="Neon" />
   <img src="assets/tools/turso.svg" width="40" height="40" alt="Turso" title="Turso" />
   <img src="assets/tools/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />

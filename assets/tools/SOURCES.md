@@ -46,6 +46,15 @@ These unmodified logos identify technologies used in the profile. Brand names an
 
 - **Red Hat**: https://skillicons.dev/icons?i=redhat
 
+- **Traefik**: https://cdn.simpleicons.org/traefikproxy
+- **Authentik**: https://cdn.simpleicons.org/authentik
+- **Infisical**: https://raw.githubusercontent.com/Infisical/infisical/main/frontend/public/images/gradientLogo.svg
+- **SQLite**: https://skillicons.dev/icons?i=sqlite
+- **Drizzle (light theme)**: https://cdn.simpleicons.org/drizzle/000000
+- **Drizzle (dark theme)**: https://cdn.simpleicons.org/drizzle
+- **HashiCorp Vault (light theme)**: https://cdn.simpleicons.org/vault/000000
+- **HashiCorp Vault (dark theme)**: https://cdn.simpleicons.org/vault
+
 ## Skill Icons license
 
 MIT License
