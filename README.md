@@ -42,38 +42,67 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 ### 💼 Experience & impact
 
-#### Ex Corp · Marketplace & Payments
+#### 💸 Ex Corp · [CS.MONEY](https://cs.money/)
 
 *Software Engineer · Mar 2022 – Mar 2026 · Remote*
 
-- **P2P launch:** built end-to-end asynchronous trading workflows. In one reported week, the platform recorded **127K+ trades**, **$4M+ turnover** and **~44K weekly active users**.
-- **Payments:** developed payment gateway and crypto integrations. The gateway recorded **$150K in deposits in its first 24 hours**.
-- **Instant Sell:** built instant item buyout flows used by **8.3K weekly active users** at the time of reporting.
-- **Financial services:** designed multi-wallet flows for refunds and transaction reporting, and migrated legacy services to NestJS.
-- **Campaign automation:** cut marketing campaign launch time **from 4 days to 2 hours** using JSON configuration and Unleash.
+<p>
+  <img src="assets/tools/react.svg" width="24" height="24" alt="React" title="React" />
+  <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/nestjs.svg" width="24" height="24" alt="NestJS" title="NestJS" />
+  <img src="assets/tools/unleash.svg" width="68" height="24" alt="Unleash" title="Unleash" />
+</p>
 
-#### Written · Digital Publishing & Payments
+- 💱 **P2P launch:** built end-to-end asynchronous trading workflows. In one reported week, the platform recorded **127K+ trades**, **$4M+ turnover** and **~44K weekly active users**.
+- 💳 **Payments:** developed payment gateway and crypto integrations. The gateway recorded **$150K in deposits in its first 24 hours**.
+- ⚡ **Instant Sell:** built instant item buyout flows used by **8.3K weekly active users** at the time of reporting.
+- 🧾 **Financial services:** designed multi-wallet flows for refunds and transaction reporting, and migrated legacy services to NestJS.
+- 🚀 **Campaign automation:** cut marketing campaign launch time **from 4 days to 2 hours** using JSON configuration and Unleash.
+
+#### 📚 [Written](https://written.app/) · Digital Publishing & Payments
 
 *Software Engineer · Apr 2026 – Sep 2026 · Remote*
 
-- Built digital book publishing, purchase and resale flows with **Coinflow, Stripe and Solana** integrations.
-- Reduced redundant backend requests by **~80%** through caching and deduplication, and reduced Docker image size by **30%**.
+<p>
+  <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
+  <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
+  <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
+</p>
 
-#### NewStartBy · Nonprofit Products
+- 📖 **Publishing & payments:** built digital book publishing, purchase and resale flows with **Coinflow, Stripe and Solana** integrations.
+- ⚡ **Performance & delivery:** reduced redundant backend requests by **~80%** through caching and deduplication, and reduced Docker image size by **30%**.
+
+#### 🌱 NewStartBy · Nonprofit Products
 
 *Tech Lead · Volunteer, part-time · Mar 2026 – present*
 
-- Build shared delivery tooling, API contract workflows and observability for Breathe Freely, Gift of Life and HAP.
-- Combine hands-on product development with architecture, technical interviews, code reviews and mentoring.
+<p>
+  <img src="assets/tools/githubactions.svg" width="24" height="24" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="assets/tools/ansible.svg" width="24" height="24" alt="Ansible" title="Ansible" />
+  <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
+  <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
+</p>
 
-#### Rostelecom · Telecommunications & Digital Services
+- 🧭 **Shared workflow:** introduced a **consistent development-to-acceptance flow across projects**, making handoffs clearer and helping teams review and accept work faster.
+- 🛠️ **Engineering foundations:** build shared delivery tooling, API contract workflows and observability for Breathe Freely, Gift of Life and HAP.
+- 👥 **Team support:** combine hands-on product development with architecture, technical interviews, code reviews and mentoring.
+
+#### 📡 [Rostelecom](https://rt.ru/) · Telecommunications & Digital Services
 
 *Lead JavaScript Developer · May 2019 – Mar 2022*
 
-- Built shared Node.js services and tooling, expanding their coverage from **0% to 50% of critical business functionality**.
-- Led JavaScript developers, introduced shared UI libraries and CI/CD, and guided the Vue 2 to Vue 3 migration.
+<p>
+  <img src="assets/tools/nodejs.svg" width="24" height="24" alt="Node.js" title="Node.js" />
+  <img src="assets/tools/vue.svg" width="24" height="24" alt="Vue" title="Vue" />
+  <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
+</p>
 
-| Earlier experience | Focus |
+- 🧩 **Monolith decomposition:** helped the team extract **~60% of the monolith's functionality** into separate services, simplifying application delivery and changes to business logic.
+- 🏗️ **Shared platform:** built Node.js services and tooling, expanding their coverage from **0% to 50% of critical business functionality**.
+- 👥 **Technical leadership:** led JavaScript developers, introduced shared UI libraries and CI/CD, and guided the Vue 2 to Vue 3 migration.
+
+| 🗂️ Earlier experience | Focus |
 | --- | --- |
 | **Rosdengi · Web Software Developer** · Aug 2017 – Apr 2019 | Internal operations tools, reporting and frontend/backend integrations with React and ASP.NET. |
 | **BGO Group · Junior JavaScript Developer** · Aug 2016 – Apr 2017 | Web applications, data import, geolocation and email services. |
