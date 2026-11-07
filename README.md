@@ -58,7 +58,10 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 <p>
   <img src="assets/tools/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="assets/tools/podman.svg" width="40" height="40" alt="Podman" title="Podman" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/podman-dark.svg" />
+    <img src="assets/tools/podman.svg" width="40" height="40" alt="Podman" title="Podman" />
+  </picture>
   <img src="assets/tools/kubernetes.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes" />
   <img src="assets/tools/terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
   <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
@@ -66,7 +69,10 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img src="assets/tools/ansible.svg" width="40" height="40" alt="Ansible" title="Ansible" />
   <img src="assets/tools/bun.svg" width="40" height="40" alt="Bun" title="Bun" />
-  <img src="assets/tools/mise.svg" width="40" height="40" alt="mise" title="mise" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/mise-dark.svg" />
+    <img src="assets/tools/mise.svg" width="40" height="40" alt="mise" title="mise" />
+  </picture>
 </p>
 
 **Languages & applications**

@@ -34,6 +34,9 @@ These unmodified logos identify technologies used in the profile. Brand names an
 - **OpenTelemetry**: https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/favicon.svg
 - **Grafana**: https://skillicons.dev/icons?i=grafana
 
+- **mise-dark (dark theme)**: https://raw.githubusercontent.com/jdx/mise/main/docs/public/logo-dark.svg
+- **podman-dark (dark theme)**: https://cdn.simpleicons.org/podman/FFFFFF
+
 ## Skill Icons license
 
 MIT License
