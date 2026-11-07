@@ -55,12 +55,21 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 ### 🛠️ Tools I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,ansible,grafana,bun,ts,nodejs,react,rust,postgres,redis&amp;perline=6" alt="Docker, Linux, GitHub Actions, Ansible, Grafana, Bun, TypeScript, Node.js, React, Rust, PostgreSQL and Redis" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,ansible,grafana,bun,ts,nodejs,py,rust,react,vue,nextjs,astro,postgres,redis,apollo,graphql&amp;perline=6" alt="Docker, Linux, GitHub Actions, Ansible, Grafana, Bun, TypeScript, Node.js, Python, Rust, React, Vue, Next.js, Astro, PostgreSQL, Redis, Apollo and GraphQL" />
 </p>
 
-**Platforms & delivery:** Docker · Linux · GitHub Actions · Ansible · Grafana · Bun  
-**Applications:** TypeScript · Node.js · NestJS · React · Next.js · Vue · SvelteKit · Rust  
-**Data & contracts:** PostgreSQL · MongoDB · Redis · OpenAPI · WebSockets · gRPC
+<p>
+  <img src="https://img.shields.io/badge/Litestar-202235?style=for-the-badge" alt="Litestar" />
+  <img src="https://img.shields.io/badge/Dragonfly-7258F5?style=for-the-badge" alt="Dragonfly" />
+  <img src="https://img.shields.io/badge/TanStack-EF4444?style=for-the-badge" alt="TanStack" />
+  <img src="https://img.shields.io/badge/mise-2563EB?style=for-the-badge" alt="mise" />
+</p>
+
+**Platforms & delivery:** Docker · Linux · GitHub Actions · Ansible · Grafana · Bun · mise  
+**Languages:** TypeScript · Python · Rust  
+**Applications:** Node.js · NestJS · Litestar · React · Next.js · Vue · SvelteKit · Astro · TanStack  
+**Data:** PostgreSQL · MongoDB · Redis · Dragonfly  
+**APIs & contracts:** Apollo GraphQL · OpenAPI · WebSockets · gRPC
 
 ### 🚀 Selected projects
 
