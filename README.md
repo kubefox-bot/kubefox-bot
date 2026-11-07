@@ -27,18 +27,11 @@
 
 ### 👨‍💻 About me
 
-I'm a software engineer with a systems view of products and how they evolve. My experience spans product development, architecture, technical leadership and infrastructure.
+I'm a software engineer working across product development, architecture and infrastructure. I help teams turn business goals into software they can operate, maintain and evolve.
 
-I work from business goals and constraints through to implementation, delivery and continued improvement. I care about the value a solution creates, how it works over time and how easily a team can maintain and develop it.
+**My approach:** understand the problem, address its causes and choose tools that fit the constraints.
 
-Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products, combining hands-on development with shared engineering foundations and team guidance.
-
-### 🎯 My approach
-
-- **Understand the problem:** clarify the goals, constraints and causes before choosing a solution.
-- **Think in systems:** address recurring problems at their source and consider how changes affect the wider product and team.
-- **Choose tools pragmatically:** weigh usefulness, complexity and maintenance cost against the needs of the task.
-- **Own the outcome:** follow decisions through implementation and operation, leaving a clear foundation for future changes.
+Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products.
 
 ### 💼 Experience & impact
 
@@ -51,9 +44,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/nestjs.svg" width="24" height="24" alt="NestJS" title="NestJS" />
   <img src="assets/tools/unleash.svg" width="68" height="24" alt="Unleash" title="Unleash" />
-  <img src="assets/tools/python.svg" width="24" height="24" alt="Python" title="Python" />
   <img src="assets/tools/pulumi.svg" width="24" height="24" alt="Pulumi" title="Pulumi" />
-  <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
   <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
@@ -73,8 +64,6 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/ruby.svg" width="24" height="24" alt="Ruby" title="Ruby" />
   <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
   <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
-  <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
-  <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
   <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
 </p>
 
@@ -91,17 +80,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/bun.svg" width="24" height="24" alt="Bun" title="Bun" />
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/python.svg" width="24" height="24" alt="Python" title="Python" />
-  <img src="assets/tools/litestar.svg" width="24" height="24" alt="Litestar" title="Litestar" />
-  <img src="assets/tools/nextjs.svg" width="24" height="24" alt="Next.js" title="Next.js" />
-  <img src="assets/tools/react.svg" width="24" height="24" alt="React" title="React" />
-  <img src="assets/tools/postgresql.svg" width="24" height="24" alt="PostgreSQL" title="PostgreSQL" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tools/drizzle-dark.svg" />
-    <img src="assets/tools/drizzle.svg" width="24" height="24" alt="Drizzle" title="Drizzle" />
-  </picture>
-  <img src="assets/tools/dragonfly.svg" width="48" height="24" alt="Dragonfly" title="Dragonfly" />
   <img src="assets/tools/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" />
-  <img src="assets/tools/opentelemetry.svg" width="24" height="24" alt="OpenTelemetry" title="OpenTelemetry" />
 </p>
 
 - 🧭 **Shared workflow:** introduced a **consistent development-to-acceptance flow across projects**, making handoffs clearer and helping teams review and accept work faster.
@@ -115,12 +94,10 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 <p>
   <img src="assets/tools/nodejs.svg" width="24" height="24" alt="Node.js" title="Node.js" />
   <img src="assets/tools/typescript.svg" width="24" height="24" alt="TypeScript" title="TypeScript" />
-  <img src="assets/tools/nestjs.svg" width="24" height="24" alt="NestJS" title="NestJS" />
   <img src="assets/tools/vue.svg" width="24" height="24" alt="Vue" title="Vue" />
   <img src="assets/tools/docker.svg" width="24" height="24" alt="Docker" title="Docker" />
   <img src="assets/tools/openshift.svg" width="24" height="24" alt="OpenShift" title="OpenShift" />
   <img src="assets/tools/mongodb.svg" width="24" height="24" alt="MongoDB" title="MongoDB" />
-  <img src="assets/tools/redis.svg" width="24" height="24" alt="Redis" title="Redis" />
 </p>
 
 - 🧩 **Monolith decomposition:** helped the team extract **~60% of the monolith's functionality** into separate services, simplifying application delivery and changes to business logic.
@@ -137,6 +114,16 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 **DevOps & platform engineering:** deepening my work on automation, reliable delivery and the foundations that make software easier to operate and evolve.
 
 **Practical AI:** building engineering workflows with Codex, Claude Code, custom plugins and agent instructions. I keep architecture, review and verification explicit throughout the process.
+
+### 🚀 Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [Julia Shell](https://github.com/kubefox-bot/julia-shell) | A modular workspace with AI chat, an Astro/React UI and a cross-platform Rust agent connected over gRPC. |
+| [FCOS Homelab](https://github.com/kubefox-bot/FCOS) | Reproducible infrastructure with declarative Fedora CoreOS configuration, rootless Podman services and recovery documentation. |
+| [RCON Web](https://github.com/kubefox-bot/rcon-web) | CS2 server administration with Vue 3, Rust/Axum and Docker Compose. |
+
+I'm also building a **private social app** with SvelteKit and NestJS: real-time chat, an offline outbox, email OTP and video stories.
 
 ### 🛠️ Tools I work with
 
@@ -159,6 +146,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
     <img src="assets/tools/podman.svg" width="40" height="40" alt="Podman" title="Podman" />
   </picture>
   <img src="assets/tools/kubernetes.svg" width="40" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img src="assets/tools/openshift.svg" width="40" height="40" alt="OpenShift" title="OpenShift" />
   <img src="assets/tools/traefik.svg" width="40" height="40" alt="Traefik" title="Traefik" />
   <img src="assets/tools/terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
   <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
@@ -192,6 +180,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="assets/tools/python.svg" width="40" height="40" alt="Python" title="Python" />
   <img src="assets/tools/rust.svg" width="40" height="40" alt="Rust" title="Rust" />
+  <img src="assets/tools/ruby.svg" width="40" height="40" alt="Ruby" title="Ruby" />
   <img src="assets/tools/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />
   <img src="assets/tools/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />
   <img src="assets/tools/litestar.svg" width="40" height="40" alt="Litestar" title="Litestar" />
@@ -230,16 +219,6 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 </p>
 
 OpenAPI · WebSockets · gRPC
-
-### 🚀 Selected projects
-
-| Project | What it does |
-| --- | --- |
-| [Julia Shell](https://github.com/kubefox-bot/julia-shell) | A modular workspace with AI chat, an Astro/React UI and a cross-platform Rust agent connected over gRPC. |
-| [FCOS Homelab](https://github.com/kubefox-bot/FCOS) | Reproducible infrastructure with declarative Fedora CoreOS configuration, rootless Podman services and recovery documentation. |
-| [RCON Web](https://github.com/kubefox-bot/rcon-web) | CS2 server administration with Vue 3, Rust/Axum and Docker Compose. |
-
-I'm also building a **private social app** with SvelteKit and NestJS: real-time chat, an offline outbox, email OTP and video stories.
 
 ---
 
