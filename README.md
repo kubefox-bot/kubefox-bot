@@ -55,7 +55,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 ### 🛠️ Tools I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,ansible,grafana,bun,ts,nodejs,py,rust,react,vue,nextjs,astro,postgres,redis,apollo,graphql&amp;perline=6" alt="Docker, Linux, GitHub Actions, Ansible, Grafana, Bun, TypeScript, Node.js, Python, Rust, React, Vue, Next.js, Astro, PostgreSQL, Redis, Apollo and GraphQL" />
+  <img src="https://skillicons.dev/icons?i=docker,podman,kubernetes,terraform,pulumi,linux,githubactions,ansible,grafana,opentelemetry,bun,playwright,ts,nodejs,py,rust,nestjs,react,vue,nextjs,svelte,astro,postgres,redis,apollo,graphql&amp;perline=6" alt="Docker, Podman, Kubernetes, Terraform, Pulumi, Linux, GitHub Actions, Ansible, Grafana, OpenTelemetry, Bun, Playwright, TypeScript, Node.js, Python, Rust, NestJS, React, Vue, Next.js, SvelteKit, Astro, PostgreSQL, Redis, Apollo and GraphQL" />
 </p>
 
 <p>
@@ -65,7 +65,9 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="https://img.shields.io/badge/mise-2563EB?style=for-the-badge" alt="mise" />
 </p>
 
-**Platforms & delivery:** Docker · Linux · GitHub Actions · Ansible · Grafana · Bun · mise  
+**Infrastructure:** Docker · Podman · Kubernetes · Terraform · Pulumi · Linux · Ansible  
+**Delivery & tooling:** GitHub Actions · Bun · mise  
+**Quality & observability:** Playwright · OpenTelemetry · Grafana  
 **Languages:** TypeScript · Python · Rust  
 **Applications:** Node.js · NestJS · Litestar · React · Next.js · Vue · SvelteKit · Astro · TanStack  
 **Data:** PostgreSQL · MongoDB · Redis · Dragonfly  
