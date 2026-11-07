@@ -44,6 +44,8 @@ These unmodified logos identify technologies used in the profile. Brand names an
 - **Microsoft Azure**: https://skillicons.dev/icons?i=azure
 - **AWS**: https://skillicons.dev/icons?i=aws
 
+- **Red Hat**: https://skillicons.dev/icons?i=redhat
+
 ## Skill Icons license
 
 MIT License

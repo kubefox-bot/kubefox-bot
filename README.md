@@ -40,11 +40,43 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 - **Choose tools pragmatically:** weigh usefulness, complexity and maintenance cost against the needs of the task.
 - **Own the outcome:** follow decisions through implementation and operation, leaving a clear foundation for future changes.
 
-### ⚡ Selected results
+### 💼 Experience & impact
 
-- **P2P marketplace:** built trading workflows for a platform that recorded **127K+ trades and $4M+ turnover in one week**.
-- **Written:** reduced redundant backend requests by **~80%** through caching and deduplication, and reduced Docker image size by **30%**.
-- **Campaign automation:** cut marketing campaign launch time from **4 days to 2 hours**.
+#### Ex Corp · Marketplace & Payments
+
+*Software Engineer · Mar 2022 – Mar 2026 · Remote*
+
+- **P2P launch:** built end-to-end asynchronous trading workflows. In one reported week, the platform recorded **127K+ trades**, **$4M+ turnover** and **~44K weekly active users**.
+- **Payments:** developed payment gateway and crypto integrations. The gateway recorded **$150K in deposits in its first 24 hours**.
+- **Instant Sell:** built instant item buyout flows used by **8.3K weekly active users** at the time of reporting.
+- **Financial services:** designed multi-wallet flows for refunds and transaction reporting, and migrated legacy services to NestJS.
+- **Campaign automation:** cut marketing campaign launch time **from 4 days to 2 hours** using JSON configuration and Unleash.
+
+#### Written · Digital Publishing & Payments
+
+*Software Engineer · Apr 2026 – Sep 2026 · Remote*
+
+- Built digital book publishing, purchase and resale flows with **Coinflow, Stripe and Solana** integrations.
+- Reduced redundant backend requests by **~80%** through caching and deduplication, and reduced Docker image size by **30%**.
+
+#### NewStartBy · Nonprofit Products
+
+*Tech Lead · Volunteer, part-time · Mar 2026 – present*
+
+- Build shared delivery tooling, API contract workflows and observability for Breathe Freely, Gift of Life and HAP.
+- Combine hands-on product development with architecture, technical interviews, code reviews and mentoring.
+
+#### Rostelecom · Telecommunications & Digital Services
+
+*Lead JavaScript Developer · May 2019 – Mar 2022*
+
+- Built shared Node.js services and tooling, expanding their coverage from **0% to 50% of critical business functionality**.
+- Led JavaScript developers, introduced shared UI libraries and CI/CD, and guided the Vue 2 to Vue 3 migration.
+
+| Earlier experience | Focus |
+| --- | --- |
+| **Rosdengi · Web Software Developer** · Aug 2017 – Apr 2019 | Internal operations tools, reporting and frontend/backend integrations with React and ASP.NET. |
+| **BGO Group · Junior JavaScript Developer** · Aug 2016 – Apr 2017 | Web applications, data import, geolocation and email services. |
 
 ### 🔭 Current focus
 
@@ -69,6 +101,7 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
   <img src="assets/tools/linux.svg" width="40" height="40" alt="Linux" title="Linux" />
   <img src="assets/tools/fedora.svg" width="40" height="40" alt="Fedora" title="Fedora" />
+  <img src="assets/tools/redhat.svg" width="40" height="40" alt="Red Hat" title="Red Hat" />
   <img src="assets/tools/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img src="assets/tools/unleash.svg" width="90" height="40" alt="Unleash" title="Unleash" />
   <img src="assets/tools/ansible.svg" width="40" height="40" alt="Ansible" title="Ansible" />
