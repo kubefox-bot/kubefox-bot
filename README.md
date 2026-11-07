@@ -57,6 +57,8 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 **Infrastructure & delivery**
 
 <p>
+  <img src="assets/tools/azure.svg" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure" />
+  <img src="assets/tools/aws.svg" width="40" height="40" alt="AWS" title="AWS" />
   <img src="assets/tools/docker.svg" width="40" height="40" alt="Docker" title="Docker" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/tools/podman-dark.svg" />
@@ -66,7 +68,9 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
   <img src="assets/tools/terraform.svg" width="40" height="40" alt="Terraform" title="Terraform" />
   <img src="assets/tools/pulumi.svg" width="40" height="40" alt="Pulumi" title="Pulumi" />
   <img src="assets/tools/linux.svg" width="40" height="40" alt="Linux" title="Linux" />
+  <img src="assets/tools/fedora.svg" width="40" height="40" alt="Fedora" title="Fedora" />
   <img src="assets/tools/githubactions.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="assets/tools/unleash.svg" width="90" height="40" alt="Unleash" title="Unleash" />
   <img src="assets/tools/ansible.svg" width="40" height="40" alt="Ansible" title="Ansible" />
   <img src="assets/tools/bun.svg" width="40" height="40" alt="Bun" title="Bun" />
   <picture>
@@ -96,6 +100,8 @@ Alongside commercial work, I volunteer as a **Tech Lead** on nonprofit products,
 
 <p>
   <img src="assets/tools/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/tools/neon.svg" width="40" height="40" alt="Neon" title="Neon" />
+  <img src="assets/tools/turso.svg" width="40" height="40" alt="Turso" title="Turso" />
   <img src="assets/tools/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
   <img src="assets/tools/redis.svg" width="40" height="40" alt="Redis" title="Redis" />
   <img src="assets/tools/dragonfly.svg" width="80" height="40" alt="Dragonfly" title="Dragonfly" />

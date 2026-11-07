@@ -37,6 +37,13 @@ These unmodified logos identify technologies used in the profile. Brand names an
 - **mise-dark (dark theme)**: https://raw.githubusercontent.com/jdx/mise/main/docs/public/logo-dark.svg
 - **podman-dark (dark theme)**: https://cdn.simpleicons.org/podman/FFFFFF
 
+- **Unleash**: https://raw.githubusercontent.com/Unleash/unleash/main/.github/unleash-logo.svg
+- **Neon**: https://cdn.simpleicons.org/neon
+- **Turso**: https://cdn.simpleicons.org/turso
+- **Fedora**: https://cdn.simpleicons.org/fedora
+- **Microsoft Azure**: https://skillicons.dev/icons?i=azure
+- **AWS**: https://skillicons.dev/icons?i=aws
+
 ## Skill Icons license
 
 MIT License
